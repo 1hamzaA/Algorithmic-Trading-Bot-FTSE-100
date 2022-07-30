@@ -1,1 +1,1 @@
-# Algorithmic-Trading-Bot-FTSE-100-
+# Algorithmic-Trading-Bot-FTSE-100
